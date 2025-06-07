@@ -7,9 +7,10 @@ Projeto criado para a disciplina de programação web 1 no IFCE
 
 ## 🚀 Funcionalidades
 
-- 📂 Visualização de coleções em formato de cards
+- 📂 Visualização de coleções e criticas(explorer) em formato de cards
 - ✏️ Templates dinâmicos com EJS
 - ⚙️ Estrutura com Node.js e Express
+- O perfil é apenas demonstração
 
 ---
 
