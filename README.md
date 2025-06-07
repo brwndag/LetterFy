@@ -32,7 +32,15 @@ Projeto criado para a disciplina de programação web 1 no IFCE
 - Iniciar projeto com Node.js, Express e Express-Generator  
 - Criar todas as rotas necessárias  
 - Usar template engine (EJS, Pug, etc) para renderizar views
-
-
 - Implementar templates com partials para facilitar manutenção
+
+---
+
+## Diagrama 
+
+![Diagrama do projeto](./diagrama.png)
+
+
+
+
 
