@@ -1,0 +1,47 @@
+<%- include('partials/header') %>
+
+<div class="container-fluid bg-dark text-light py-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8">
+        <h1 class="display-4 fw-bold text-warning"> Minhas Coleções</h1>
+        <p class="lead">Aqui você visualiza e organiza suas listas de músicas favoritas, com vibes únicas, adicione suas semaninhas do last.fm 💿✨</p>
+      </div>
+      
+      <div class="col-md-4 text-md-end text-center mt-4 mt-md-0">
+        <a href="/add" class="btn btn-success btn-lg">
+          <i class="bi bi-plus-lg"></i> Adicionar coleção
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container my-5">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0 rounded-3">
+        <img src="/images/lana.jpg" class="card-img-top" alt="Capa do álbum" style="height: auto; object-fit: cover;">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Norman Fucking Rockwell</h5>
+          <p class="card-text">Favs de NFR ✨</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0 rounded-3">
+        <img src="/images/semana.jpg" class="card-img-top" alt="Capa do álbum" style="height: auto; object-fit: cover;">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Semaninha sla ql</h5>
+          <p class="card-text">Semaninha Last.fm 🎨</p>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+</div>
+
+<%- include('partials/footer') %>
