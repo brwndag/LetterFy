@@ -9,7 +9,6 @@ Projeto criado para a disciplina de programação web no IFCE
 
 - 📂 Visualização de coleções em formato de cards
 - ✏️ Templates dinâmicos com EJS
-- 🎨 Estilização caprichada com CSS
 - ⚙️ Estrutura com Node.js e Express
 
 ---
