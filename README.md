@@ -1,7 +1,7 @@
 # 🎧 LetterFy
 
 Um site inspirado na funcionaldade do Letterboxd — mas focado em música!  
-Projeto criado para a disciplina de programação web no IFCE
+Projeto criado para a disciplina de programação web 1 no IFCE
 
 ---
 
